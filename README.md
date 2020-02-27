@@ -1,13 +1,14 @@
 # Project Title
 
 Github repository containing the source code for the Horiseon SEO Services web page.
+
 This repository is part of the Week 1 homework assigned for the completion of the Penn LPS Coding Bootcamp.
 
-### Installing
+## Installing
 
-*Run the index.html file on your favorite web browser.
-*Be sure to run in full screen mode. Elements may be displaced in windowed mode. A fix will be implemented in the future once I familiarize myself with flex-box and grid.
-*Be sure to keep the index.html directory and assets directory in the same file.
+* Run the index.html file on your favorite web browser.
+* Be sure to run in full screen mode. Elements may be displaced in windowed mode. A fix will be implemented in the future once I familiarize myself with flex-box and grid.
+* Be sure to keep the index.html directory and assets directory in the same file.
 
 
 ## Built With
