@@ -12,7 +12,7 @@ This repository is part of the Week 1 homework assigned for the completion of th
 
 ## Built With
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+*[Visual Studio Code](https://code.visualstudio.com/)
 
 
 ## Contributing
