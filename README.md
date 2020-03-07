@@ -1,4 +1,4 @@
-# Project Title
+# Project: Horiseon
 
 Github repository containing the source code for the Horiseon SEO Services web page.
 
