@@ -6,13 +6,12 @@ This repository is part of the Week 1 homework assigned for the completion of th
 ### Installing
 
 - Run index.html on your favorite browser.
-- Be sure to keep all files in the same directory.<br>
+- Be sure to keep all files in the same directory.
 
-<br>
-**You can also access the website by clicking [here](https://dmjohnspor.github.io/HW1_Horiseon_Project/).**
-<br>
+### Screenshots
 
-Web app screenshots:
+**Access the website by clicking [here](https://dmjohnspor.github.io/HW1_Horiseon_Project/).**
+
 ![](assets/image_1.jpg)
 
 ## Built With
