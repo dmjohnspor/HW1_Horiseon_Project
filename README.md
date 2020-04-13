@@ -1,17 +1,17 @@
 # Project: Horiseon
-Github repository containing the source code for the Horiseon SEO Services web page.
-Main code was provided, assignment was to make minor change to it and add comments.
+Github repository containing the source code for the Horiseon SEO Services web page.<br>
+Main code was provided, assignment was to make minor change to it and add comments.<br>
 This repository is part of the Week 1 homework assigned for the completion of the Penn LPS Coding Bootcamp.
 
 ### Installing
 
 - Run index.html on your favorite browser.
-- Be sure to keep all files in the same directory.
-
-Here is a sample of the app:
-![](assets/image_1.jpg)
-
+- Be sure to keep all files in the same directory.<br>
+<br>
 **You can also access the app by clicking [here](https://dmjohnspor.github.io/weather_app/).**
+
+Web app screenshots:
+![](assets/image_1.jpg)
 
 ## Built With
 
