@@ -9,7 +9,7 @@ This repository is part of the Week 1 homework assigned for the completion of th
 - Be sure to keep all files in the same directory.<br>
 
 <br>
-**You can also access the website by clicking [here]**(https://dmjohnspor.github.io/HW1_Horiseon_Project/)
+**You can also access the website by clicking [here](https://dmjohnspor.github.io/HW1_Horiseon_Project/).**
 <br>
 
 Web app screenshots:
