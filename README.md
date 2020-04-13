@@ -12,7 +12,7 @@ This repository is part of the Week 1 homework assigned for the completion of th
 
 **Access the website by clicking [here](https://dmjohnspor.github.io/HW1_Horiseon_Project/).**
 
-![](assets/portfolioJPEG_1)
+![](assets/portfolioJPEG_1'jpg)
 
 ## Built With
 
