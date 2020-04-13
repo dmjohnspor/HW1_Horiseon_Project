@@ -7,8 +7,10 @@ This repository is part of the Week 1 homework assigned for the completion of th
 
 - Run index.html on your favorite browser.
 - Be sure to keep all files in the same directory.<br>
+
 <br>
-**You can also access the app by clicking [here](https://dmjohnspor.github.io/weather_app/).**
+**You can also access the website by clicking [here]**(https://dmjohnspor.github.io/HW1_Horiseon_Project/)
+<br>
 
 Web app screenshots:
 ![](assets/image_1.jpg)
@@ -38,14 +40,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * A big thank you to Anthony, Tani and Tom for all their support and guidance.
 * To all my fellow classmates in the bootcamp. Thank you for your continuing help and support!
 * Stay healthy and safe!
-
-
-
-
-
-
-
-
-
-
-
